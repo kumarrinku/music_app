@@ -9,11 +9,6 @@ A modern Web-Based music player made using ReactJS
 
 ![Screenshot](public/screenshot.png?raw=true)
 
-## Deployment
-
-Spotipy is deployed at [Vercel](https://vercel.com/) and can be accessed by clicking [here](https://music-player-dun.vercel.app/)
-
-
 ## Features
 
 - Clean UI with dark mode
@@ -31,23 +26,3 @@ Spotipy is deployed at [Vercel](https://vercel.com/) and can be accessed by clic
 [![React Redux](https://img.shields.io/badge/React%20Redux-7.2.6-lightgrey)](#)
 
 [![React Redux](https://img.shields.io/badge/Redux-4.1.2-red)](#)
-
-
-
-## Contributors
-- [Jessej Samuel](https://github.com/jessej-samuel)
-- [Ishaan Bedi](https://github.com/ishaanbedi)
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
-
-
-## License
-
-Spotipy is an MIT Licensed web application.
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/jessej-samuel/spotipy/blob/master/LICENSE)
-
